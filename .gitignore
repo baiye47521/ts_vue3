@@ -1,0 +1,4 @@
+# Project exclude paths
+/01_TypeScript/01/02_接口.js
+/01_TypeScript/01/03_类.js
+/01_TypeScript/03_webpack/node_modules/
